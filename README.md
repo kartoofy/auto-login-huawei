@@ -1,2 +1,12 @@
-# auto-login-huawei
-Auto login for Huawei HG8145X6-10 (ALGERIE TELECOM)
+# Huawei HG8145X6-10 Auto Login
+
+Violentmonkey userscript for automatic login to the Huawei HG8145X6-10 modem used by ALGERIE TELECOM.
+
+## Setup
+
+1. Install [Violentmonkey](https://violentmonkey.github.io/).
+2. Enable **Allow user scripts** in the extension settings.
+3. Install [`Modem Auto Login.user.js`](./Modem%20Auto%20Login.user.js).
+4. Open `https://192.168.100.1/` and accept the modem's self-signed certificate warning once.
+
+The script fills the login form and submits it automatically.
