@@ -1,4 +1,4 @@
-# Huawei HG8145X6-10 Auto Login
+# Huawei HG8145X6-10 Superadmin Auto Login
 
 Violentmonkey userscript for automatic login to the Huawei HG8145X6-10 modem used by ALGERIE TELECOM.
 
