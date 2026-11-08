@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Modem Auto Login
+// @name        Huawei HG8145X6-10 Superadmin Auto Login
 // @namespace   modem-autologin
 // @match       https://192.168.100.1/*
 // @match       https://192.168.100.1:80/*
