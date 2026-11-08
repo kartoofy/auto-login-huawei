@@ -11,5 +11,8 @@ Violentmonkey userscript for automatic login to the Huawei HG8145X6-10 modem use
 
 The script fills the login form and submits it automatically.
 > Before installing, edit `Modem Auto Login.user.js` and change:<br>
-> <mark><code>passField.value = "Algeri@Ftth#21@";</code></mark><br>
+> <mark><code>passField.value = "f)Dut=5ZfMtGKZ).+J7}iMG52+f|!.co";</code></mark><br>
+<mark><code>passField.value = "Algeri@Ftth#21";</code></mark><br>
+<mark><code>passField.value = "kY;3dgGziKF>7}cQEv";</code></mark><br>
+<mark><code>passField.value = "admintelecom";</code></mark>
 > to your own modem password.
